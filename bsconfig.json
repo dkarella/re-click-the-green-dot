@@ -1,0 +1,13 @@
+{
+  "name": "re-click-the-green-dot",
+  "version": "0.1.0",
+  "sources": "src",
+  "package-specs": ["es6-global"],
+  "suffix": ".bs.js",
+  "bs-dependencies": [],
+  "warnings": {
+    "error": "+101"
+  },
+  "namespace": true,
+  "refmt": 3
+}
