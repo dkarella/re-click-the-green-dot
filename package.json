@@ -5,7 +5,7 @@
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
     "clean": "bsb -clean-world",
-    "bundle": "rollup --input ./lib/es6_global/src/Main.bs.js --format iife --output public/bundle.js"
+    "bundle": "rollup --input ./lib/es6_global/src/Main.bs.js --format iife --file public/bundle.js"
   },
   "author": "Daniel K. Arellano",
   "license": "MIT",

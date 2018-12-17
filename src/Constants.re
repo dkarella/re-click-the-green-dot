@@ -1,0 +1,11 @@
+let gridWidth = 500;
+let timeBarHeight = 25;
+let timeBarMarginBottom = 5;
+let initialMaxTimeRemaining = 10 * 1000;
+let initialGridSize = 10;
+let numClickedToIncreaseDifficulty = 5;
+let msToAddToTimeRemaining = 1000;
+let msToSubtractFromMaxTimeRemaining = 1000;
+let minMaxTimeRemaining = 1000;
+let gameOverTextX = 10;
+let gameOverTextY = timeBarHeight;
