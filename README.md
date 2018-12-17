@@ -21,4 +21,4 @@ Then in another terminal run:
 $ npm run bundle
 ```
 
-Then you can either open the `public/index.html` file or serve the contents of the `public/` folder with a server of youre choice (i.e. `pushtate-server`).
+Then you can either open the `public/index.html` file or serve the contents of the `public/` folder with a server of youre choice (i.e. `pushstate-server`).
