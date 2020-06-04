@@ -6,6 +6,8 @@ If you run out of time, you lose!
 
 Have fun!
 
+https://dkarella.github.io/re-click-the-green-dot/
+
 # Running the project locally
 
 First:
